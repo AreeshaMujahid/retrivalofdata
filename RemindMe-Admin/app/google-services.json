@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "952122328933",
+    "firebase_url": "https://cr-authentication.firebaseio.com",
+    "project_id": "cr-authentication",
+    "storage_bucket": "cr-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:952122328933:android:a5f09759eb6bb8852a438c",
+        "android_client_info": {
+          "package_name": "com.example.remindmeadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "952122328933-vui1189khnaeht1f1js7ndm41qmql6dm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remindmeadmin",
+            "certificate_hash": "7667561c003521784619a003aa0ad2567c21bae1"
+          }
+        },
+        {
+          "client_id": "952122328933-9d2gcfia5uub4ehl1t9b1377agmo2tr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6rE_2Vex2wwOizzBL4tod0FC2r5HqTok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "952122328933-9d2gcfia5uub4ehl1t9b1377agmo2tr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
